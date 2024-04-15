@@ -1,0 +1,16 @@
+{
+  "name": "Betto",
+  "keywords": "betto",
+  "description": "Allow to use the library to Betto Robot for Arduino Nano",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/UlisesGordillo/Betto.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "betto"
+  ]
+}
